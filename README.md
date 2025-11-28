@@ -1,4 +1,5 @@
 Vulnerability Scan Using Nessus Essentials- Task 3 
+
 Overview
 This repository contains the deliverables for Task 3 of my cybersecurity internship.
 The objective of this task was to perform a basic vulnerability assessment on a VulnHub virtual machine by installing Nessus Essentials on Kali Linux, configuring the scanner, running a full scan, and documenting vulnerabilities, remediations, and notes from the Nessus report.
