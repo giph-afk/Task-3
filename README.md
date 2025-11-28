@@ -43,11 +43,9 @@ Task3.docx → Full vulnerability assessment report
 README.md → This documentation
 
 Tools Used
--Nessus Essentials (Tenable) — vulnerability scanning
--VirtualBox — virtualization
--Kali Linux — scan host
--VulnHub VM — scan target
--Terminal — network discovery
+-Nessus Essentials (Tenable): vulnerability scanning
+-Kali Linux: scan host
+-VulnHub VM: scan target
 
 Notes
 -The target VM was intentionally vulnerable
